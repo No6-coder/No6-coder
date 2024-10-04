@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @No6-coder
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning nodejs
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Im cool
